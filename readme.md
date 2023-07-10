@@ -38,7 +38,7 @@ See the `composer.json` for more details on their execution and reporting output
 
 ## Licensing
 
-Copyright (c) 2018 [Artisans Collaborative](https://artisanscollaborative.com)
+Copyright (c) 2023 [Artisan Made](http://artisanmade.io)
 
 This package is released under the MIT license. Please see the LICENSE file
 distributed with every copy of the code for commercial licensing terms.
